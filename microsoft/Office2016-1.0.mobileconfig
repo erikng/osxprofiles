@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>org.yourorg.profile.office2016</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e</string>
+	<key>PayloadOrganization</key>
+	<string>Your Org</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft Office 2016</string>
+	<key>PayloadDescription</key>
+	<string>OOBE Office 2016 settings.
+Included custom settings:
+com.microsoft.autoupdate2
+com.microsoft.Excel
+com.microsoft.Office365ServiceV2
+com.microsoft.onenote.mac
+com.microsoft.Outlook
+com.microsoft.PowerPoint
+com.microsoft.Word
+	</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.autoupdate2</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>Applications</key>
+                                <dict>
+                                    <key>/Applications/Microsoft Excel.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>XCEL15</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Applications/Microsoft OneNote.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>ONMC15</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Applications/Microsoft Outlook.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>OPIM15</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Applications/Microsoft PowerPoint.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>PPT315</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Applications/Microsoft Word.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>MSWD15</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>MSau02</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                    <key>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</key>
+                                    <dict>
+                                        <key>Application ID</key>
+                                        <string>Merp2</string>
+                                        <key>LCID</key>
+                                        <integer>1033</integer>
+                                    </dict>
+                                </dict>
+								<key>HowToCheck</key>
+								<string>Manual</string>
+								<key>LastUpdate</key>
+								<date>2001-01-01T00:00:00Z</date>
+                                <key>WhenToCheck</key>
+                                <integer>2</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d17cf4e-89bb-433e-be21-350d4894e6f0</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>9d17cf4e-89bb-433e-be21-350d4894e6f0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Excel</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>kSubUIAppCompletedFirstRunSetup1507</key>
+                                <true/>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.88ed858e-f564-4061-b2e7-811b252cf74e</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>88ed858e-f564-4061-b2e7-811b252cf74e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Office365ServiceV2</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d80ff5c-bbc0-44b5-a978-e34665fa9796</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>9d80ff5c-bbc0-44b5-a978-e34665fa9796</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.onenote.mac</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>FirstRunExperienceCompletedO15</key>
+                                <true/>
+                                <key>kSubUIAppCompletedFirstRunSetup1507</key>
+                                <true/>
+                                <key>OUIWhatsNewLastShownLink</key>
+                                <integer>623769</integer>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+                            </dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.c6a5e365-3595-4aa6-aa6a-10d9d284fd88</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c6a5e365-3595-4aa6-aa6a-10d9d284fd88</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Outlook</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>FirstRunExperienceCompletedO15</key>
+                                <true/>
+                                <key>kSubUIAppCompletedFirstRunSetup1507</key>
+                                <true/>
+                                <key>OUIWhatsNewLastShownLink</key>
+                                <integer>623900</integer>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.be6c107f-de3f-4b53-829e-431d4ad6768e</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>be6c107f-de3f-4b53-829e-431d4ad6768e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.PowerPoint</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>kSubUIAppCompletedFirstRunSetup1507</key>
+                                <true/>
+                                <key>OUIWhatsNewLastShownLink</key>
+                                <integer>620749</integer>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.d69dd9c4-5050-41e2-966f-b10ee3056ae3</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d69dd9c4-5050-41e2-966f-b10ee3056ae3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Word</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+                                <key>kSubUIAppCompletedFirstRunSetup1507</key>
+                                <true/>
+                                <key>SendAllTelemetryEnabled</key>
+                                <false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.e0135484-462b-4f9d-bb7c-5b1c73de63cd</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>e0135484-462b-4f9d-bb7c-5b1c73de63cd</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
