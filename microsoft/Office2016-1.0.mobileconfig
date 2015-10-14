@@ -107,7 +107,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d17cf4e-89bb-433e-be21-350d4894e6f0</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d17cf4e-89bb-433e-be21-350d4894e6f0</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -127,6 +127,8 @@ com.microsoft.Word
 							<dict>
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
+								<key>OUIWhatsNewLastShownLink</key>
+								<string>624954</string>
 								<key>SendAllTelemetryEnabled</key>
 								<false/>
 							</dict>
@@ -137,7 +139,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.88ed858e-f564-4061-b2e7-811b252cf74e</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.88ed858e-f564-4061-b2e7-811b252cf74e</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -165,7 +167,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d80ff5c-bbc0-44b5-a978-e34665fa9796</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.9d80ff5c-bbc0-44b5-a978-e34665fa9796</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -188,7 +190,7 @@ com.microsoft.Word
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 								<key>OUIWhatsNewLastShownLink</key>
-								<integer>623769</integer>
+								<integer>627248</integer>
 								<key>SendAllTelemetryEnabled</key>
 								<false/>
 							</dict>
@@ -199,7 +201,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.c6a5e365-3595-4aa6-aa6a-10d9d284fd88</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.c6a5e365-3595-4aa6-aa6a-10d9d284fd88</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -222,7 +224,7 @@ com.microsoft.Word
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 								<key>OUIWhatsNewLastShownLink</key>
-								<integer>623900</integer>
+								<integer>624956</integer>
 								<key>SendAllTelemetryEnabled</key>
 								<false/>
 							</dict>
@@ -233,7 +235,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.be6c107f-de3f-4b53-829e-431d4ad6768e</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.be6c107f-de3f-4b53-829e-431d4ad6768e</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -254,7 +256,7 @@ com.microsoft.Word
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 								<key>OUIWhatsNewLastShownLink</key>
-								<integer>620749</integer>
+								<integer>624955</integer>
 								<key>SendAllTelemetryEnabled</key>
 								<false/>
 							</dict>
@@ -265,7 +267,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.d69dd9c4-5050-41e2-966f-b10ee3056ae3</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.d69dd9c4-5050-41e2-966f-b10ee3056ae3</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
@@ -285,6 +287,8 @@ com.microsoft.Word
 							<dict>
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
+								<key>OUIWhatsNewLastShownLink</key>
+								<integer>624953</integer>
 								<key>SendAllTelemetryEnabled</key>
 								<false/>
 							</dict>
@@ -295,7 +299,7 @@ com.microsoft.Word
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>org.houstonisd.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.e0135484-462b-4f9d-bb7c-5b1c73de63cd</string>
+			<string>org.yourorg.profile.office2016.5ab6f2a4-5b94-49f1-b2d2-b65d59dde76e.customsettings.e0135484-462b-4f9d-bb7c-5b1c73de63cd</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
